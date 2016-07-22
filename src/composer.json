@@ -1,0 +1,11 @@
+{
+  "name": "reciclare/portal",
+  "description": "Projeto portal",
+  "type": "library",
+  "license": "MIT",
+  "authors": [],
+  "autoload": {},
+  "require": {
+    "better-dev/account-api-client": ">=0.0.9"
+  }
+}

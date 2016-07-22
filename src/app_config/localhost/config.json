@@ -1,0 +1,17 @@
+{
+
+    "dev" 						: 1,
+    "folder_modules_config" 	: "core/private/module_configs/",
+    "folder_request_controler" 	: "core/controllers/",
+    "app_url" 					: "localhost/arm_devs/" ,
+    "root_url" 					: "localhost/arm_devs/",
+    "app_path" 					: "",
+    "view_module_list"          : {"html":"ARMSimplePHPResult"},
+    "temp_folder"               : "core/temp/",
+    "request_access_controll"   : "BasicAccessControll",
+    "class_path_list"           : [
+                                  "arm/",
+                                  "core/",
+                                  "development/"
+                                  ]
+}

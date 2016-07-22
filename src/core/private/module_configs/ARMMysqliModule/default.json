@@ -1,0 +1,8 @@
+{
+  "host"      : "localhost",
+  "server"    : "localhost",
+  "name"      : "localhost",
+  "user"      : "root",
+  "password"  : "",
+  "database"  : "bodytech_helper"
+}
